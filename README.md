@@ -1,2 +1,5 @@
 # sorting_visualisier
-orithm visualization is a graphical approach that simplifies and deepens the understanding of how algorithms operate. As algorithms and data structures are integral to computer science education, it is crucial to incorporate appropriate teaching methods. 
+Algorithm visualization illustrates how algorithms work in a graphical way. It mainly aims to simplify and deepen the understanding of algorithms operation. Algorithms and data structures as an essential part of knowledge in a framework of computer science1have their stable position in computer science curricula2, since every computer scientist and every professional programmer should have the basic
+knowledge from the area .With the increasing number of students in Central
+European’s higher education systems in last decades more concrete numbers and impacts for the case of Slovak one can be found in introduction of appropriate methods into the process of their education is also required. Our scope here is the higher education in the field of computer science. So within the paper, we discuss the extension of standard methods of teaching algorithms, using the whiteboard or
+slides, with the algorithm visualizations.
