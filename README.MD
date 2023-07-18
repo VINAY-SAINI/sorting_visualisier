@@ -17,3 +17,4 @@ This application supports the following sorting algorithms:
 3. **Selection Sort**.
 4. **Merge Sort**.
 5. **Quick Sort**.
+<img width="1580" alt="Screenshot 2023-07-18 at 1 22 00 PM" src="https://github.com/VINAY-SAINI/sorting_visualisier/assets/65601865/d673167b-3fb9-4563-819f-39bbc15abbfc">
